@@ -32,6 +32,7 @@ This repository is prepared to provide practise qustions for dsa
 - [ ] 39. [Plus One](https://leetcode.com/problems/plus-one/description/)
 - [ ] 40. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 - [ ] 41. [Product array puzzle](https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1)
+- [ ] 108. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/1820366752/)
 ## Binary Search
 - [ ] 5. [Binary Search](https://leetcode.com/problems/binary-search/description/)
 - [ ] 6. [Implement Lower Bound](https://www.geeksforgeeks.org/problems/implement-lower-bound/1)
@@ -105,7 +106,7 @@ This repository is prepared to provide practise qustions for dsa
 - [ ] 95.[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
 - [ ] 96.[The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)
 - [ ] 97.[Count Strictly Increasing Subarrays](https://www.geeksforgeeks.org/problems/count-increasing-subarrays5301/1)
-- [ ] 98.[Maximum sum subarray having sum less than or equal to given sum](https://leetcode.com/problems/maximum-subarray/description/)
+- [ ] 98.[Maximum sum of subarray less than or equal to x](https://www.geeksforgeeks.org/problems/maximum-sum-of-subarray-less-than-or-equal-to-x4033/1)
 - [ ] 99.[Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/)
 - [ ] 100.[Minimum Operations to Form Subsequence With Target Sum](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/description/)
 - [ ] 101.[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/)
